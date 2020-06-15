@@ -12,9 +12,10 @@ word2vec-embeddings/data/*
 gan-mnist/data/*
 batch-norm/data/*
 dcgan-svhn/data/*
-cycle-gan/summer2winter-yosemite/*
+cycle-gan/summer2winter_yosemite/*
 project-face-generation/processed_celeba_small/*
 sagemaker-deployment/data/*
+class_videos
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
